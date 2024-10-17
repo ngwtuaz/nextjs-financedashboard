@@ -1,1 +1,1 @@
-# nextjs-financedashboard
+# Finance Dashboard
